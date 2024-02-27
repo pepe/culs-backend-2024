@@ -72,3 +72,4 @@ Teaching materials for the backend summer study block.
 - [ElasticSearch](https://www.elastic.co)
 - [Solr](https://lucene.apache.org/solr/)
 - [Mongoose](http://mongoosejs.com)
+- [Offline first](https://www.infoq.com/presentations/offline-first-apps/)
