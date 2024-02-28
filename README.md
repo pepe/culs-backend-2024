@@ -74,3 +74,9 @@ Teaching materials for the backend summer study block.
 - [Mongoose](http://mongoosejs.com)
 - [Offline first](https://www.infoq.com/presentations/offline-first-apps/)
 - [Janet programming language](https://janet-lang.org/index.html)
+- [See My Work](https://github.com/pepe/smw)
+
+## Tasks
+
+- [install Janet programming language](https://github.com/janet-lang/janet/releases)
+- [install jpm](https://janet-lang.org/docs/jpm.html)
