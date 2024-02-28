@@ -81,3 +81,5 @@ Teaching materials for the backend summer study block.
 - [install Janet programming language](https://github.com/janet-lang/janet/releases)
 - [install jpm](https://janet-lang.org/docs/jpm.html)
 - [clone smw and run it on your group computer](https://github.com/pepe/smw)
+- change something in the smw and create your repository with the code
+- OR program just anything in Janet and create the repository with the code
