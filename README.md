@@ -73,3 +73,4 @@ Teaching materials for the backend summer study block.
 - [Solr](https://lucene.apache.org/solr/)
 - [Mongoose](http://mongoosejs.com)
 - [Offline first](https://www.infoq.com/presentations/offline-first-apps/)
+- [Janet programming language](https://janet-lang.org/index.html)
