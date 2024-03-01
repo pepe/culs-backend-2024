@@ -83,3 +83,6 @@ Teaching materials for the backend summer study block.
 - [clone smw and run it on your group computer](https://github.com/pepe/smw)
 - change something in the smw and create your repository with the code
 - OR program just anything in Janet and create the repository with the code
+- 
+## Test
+[test link](https://docs.google.com/forms/d/e/1FAIpQLSesubHzZ5sBHMlcZKksnFDUKSRZrW-riVnXrKODXZ6KI3WfIQ/viewform?usp=sf_link)
